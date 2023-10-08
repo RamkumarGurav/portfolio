@@ -305,9 +305,9 @@ const Projects = () => {
                 className="rounded-md object-cover" //always give object-cover class to make image responsive without losing its aspects ratio( The image keeps its aspect ratio and fills the given dimension. The image will be clipped to fit)
               />
               <div className="absolute top-0 left-0 w-full h-full cgx-primary flex flex-col justify-center items-center gap-4 px-2">
-                <Link href={`${app.link}`} className="text-xl text-white ">
+                {/* <Link href={`${app.link}`} className="text-xl text-white ">
                   {app.name}
-                </Link>
+                </Link> */}
                 <p className="text-sm text-white px-2 text-center ">
                   {app.desc}
                 </p>
