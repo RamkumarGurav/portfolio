@@ -29,6 +29,7 @@ const About = () => {
           <div className="tab-contents active-tab" id="skills">
             <ul>
               <li>
+                <span>2019</span>
                 <br />
                 BE in ECE ,from JSS Academy of Technical Education Bengaluru
                 560060.
@@ -36,6 +37,7 @@ const About = () => {
                 cgpa: 8.02
               </li>
               <li>
+                <span>2015</span>
                 <br />
                 PUC from Tungal PU Composite College JamaKhandi.
               </li>

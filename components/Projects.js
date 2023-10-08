@@ -71,16 +71,28 @@ const staticApps = [
 
 const springbootApis = [
   {
-    link: "https://fastnews.onrender.com/api/v1/swagger-ui/index.html",
-    name: "fastnews.com/api/v1",
+    link: "https://talented-ant-loincloth.cyclic.app/api/v1/posts",
+    name: "myblogs.com/api/v1/villa-reservations",
     image: "/apiImg5.png",
-    desc: "It's an API for News website using MySQL Database",
+    desc: "It's an API for blogs website using MongoDB Database and built using Nodejs",
+  },
+  {
+    link: "https://talented-ant-loincloth.cyclic.app/api/v1/questions",
+    name: "myexams.com/api/v1/posts/all",
+    image: "/apiImg5.png",
+    desc: "It's an API for educational webstie using MongoDB Database and built using Nodejs",
+  },
+  {
+    link: "https://talented-ant-loincloth.cyclic.app/api/v1/villa-reservations",
+    name: "villas.com/api/v1/villa-reservations",
+    image: "/apiImg5.png",
+    desc: "It's an API for educational webstie using MongoDB Database and built using Nodejs",
   },
   {
     link: "https://test-sm-blogs-api.onrender.com/api/v1/swagger-ui/index.html",
-    name: "myblogs.com/api/v1",
+    name: "rblogs.com/api/v1",
     image: "/apiImg5.png",
-    desc: "It's an API for Blogs website using MongoDB Database",
+    desc: "It's an API for Blogs website using MongoDB Database and built using Springboot framework",
   },
 ];
 const Projects = () => {
@@ -273,7 +285,7 @@ const Projects = () => {
       </h2>
       <p className="pl-12 my-4 text-base text-white  sm:text-[20px]  ">
         {" "}
-        Built using Springboot framework
+        Built using Nodejs and Springboot framework
       </p>
       <section className="mb-28">
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 px-10 py-4 place-content-center place-items-center">
