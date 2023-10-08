@@ -67,13 +67,13 @@ const Skills = () => {
         </div>
       </div>
       <div className="java-skills w-full px-14 my-4">
-        <h3 className="text-xl text-white">Java (pursuing)</h3>
+        <h3 className="text-xl text-white">Java </h3>
         <div className="progress-container">
           <div className="progress "></div>
         </div>
       </div>
       <div className="springboot-skills w-full px-14 my-4">
-        <h3 className="text-xl text-white">Spring Boot (pursuing)</h3>
+        <h3 className="text-xl text-white">Spring Boot</h3>
         <div className="progress-container">
           <div className="progress "></div>
         </div>
