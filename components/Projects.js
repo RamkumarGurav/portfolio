@@ -11,7 +11,7 @@ const dynamicApps = [
     desc: "It's an education related app where one can take tests , browse and search mcqs, download notes and also buy books using stripe payment interface",
   },
   {
-    link: "https://my-blogs-ramkumargurav.vercel.app",
+    link: "https://myblogs-ramkumargurav.vercel.app",
     name: "MyBlogs.com",
     image: "/myblogs1.png",
     desc: "It's a blogging related app where you can see blog posts of others and also you can create an account and Post your own blog posts",

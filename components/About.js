@@ -29,7 +29,7 @@ const About = () => {
           <div className="tab-contents active-tab" id="skills">
             <ul>
               <li>
-                {/* <br /> */}
+                <br />
                 BE in ECE ,from JSS Academy of Technical Education Bengaluru
                 560060.
                 <br />
