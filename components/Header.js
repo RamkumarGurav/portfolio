@@ -116,7 +116,7 @@ const Header = () => {
       </header>
       <div className=" w-full h-full flex items-start pt-[8vmax] justify-start px-[4vmax] md:px-20">
         <div className="header-text">
-          <p className="text-[30px] text-white font-semibold merriweather font-semibold">
+          <p className="text-[30px] text-white  merriweather font-semibold">
             Full Stack Developer
           </p>
           <h1 className="text-[40px] lg:text-[60px] text-white merriweather font-semibold">
