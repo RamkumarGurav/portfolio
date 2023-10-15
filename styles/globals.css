@@ -698,6 +698,36 @@ font-weight: 500;
   transition: 0.2s ease-in-out;
 }
 
+#pdfs {
+  padding: 50px 0;
+}
+.pdfs-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 50px;
+  margin-top: 50px;
+}
+.pdfs-list div {
+  display: block;
+  background-color: #202020;
+  padding: 40px;
+  font-size: 13px;
+  font-weight: 300;
+  border-radius: 10px;
+  transition: 0.2s ease-in-out;
+}
+
+.pdfs-list div i {
+  font-size: 50px;
+  margin-bottom: 30px;
+}
+
+.pdfs-list div h1 {
+  font-size: 30px;
+  font-weight: 500;
+  margin-bottom: 15px;
+}
+
 /* ----------projects---- */
 .cgx-primary {
   background: linear-gradient(rgba(0, 0, 0, 0.6), #ff005186);
