@@ -80,7 +80,7 @@ const Navbar = () => {
             </Link>
 
             <Link
-              href={"#contactme"}
+              href={"#downloads"}
               className="text-md navlink relative lg:mx-10 lg:my-0 text-white hover:text-gray-200 duration-300"
               scroll={false}
             >
