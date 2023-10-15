@@ -25,6 +25,15 @@ const EnglsihMaterials = () => {
             <div className="flex flex-col justify-between">
               <FaFilePdf size={35} color="white" className="mb-2" />
               <h4 className="text-white text-bold text-lg my-10">
+                Practice Makes Perfect:English
+              </h4>
+              <DownloadCard>
+                ./pdfs/English-Conversation-Premium.pdf
+              </DownloadCard>
+            </div>
+            <div className="flex flex-col justify-between">
+              <FaFilePdf size={35} color="white" className="mb-2" />
+              <h4 className="text-white text-bold text-lg my-10">
                 Everyday english practices
               </h4>
               <DownloadCard>./pdfs/everyday_english_practices.pdf</DownloadCard>
